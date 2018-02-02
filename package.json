@@ -1,0 +1,6 @@
+{
+  "name":"mbta-frontend",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
